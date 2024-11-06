@@ -1,0 +1,12 @@
+{
+  "user": {
+    "username": "naomi",
+    "password": "12345"
+  },
+  "product": {
+    "name": "Benefit Bella Bamba",
+    "id": "52",
+    "quantity": 2,
+    "totalPrice": "$56.00"
+  }
+}

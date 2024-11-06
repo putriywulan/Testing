@@ -1,0 +1,12 @@
+{
+    "validProduct": {
+      "name": "Benefit Bella Bamba",
+      "price": "$28.00",
+      "productId": "52"
+    },
+    "invalidProduct": {
+      "name": "Non Existent Product",
+      "productId": "999"
+    }
+  }
+  
